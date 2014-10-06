@@ -1,5 +1,5 @@
 .navbar-brand {
-	background: url(../img/logo.png) 0 5px no-repeat;
+	/*background: url(../img/logo.jpg) 0 5px no-repeat;*/
 	background-size: 190px;
 	width: 202px;
 	padding: 10px 0 0 0;
@@ -10,3 +10,31 @@
 {
     text-align:center;
 }
+body {
+ margin: 0;
+ background: url(../img/3.jpg) 0 5px;
+
+ background-size: 1440px 800px;
+ /*background-repeat:no-repeat;*/
+ display: compact;
+ font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+ .white {
+ 	background-color: white;
+ 	opacity: .8;
+
+ }
+
+ .container * {
+ 	opacity: 1;
+ }
+
+ .hours {
+ 	text-align: center;
+
+ }
+
+
+
+ 
