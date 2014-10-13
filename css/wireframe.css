@@ -41,7 +41,14 @@ body {
 }
 
 .bkgnd {
-	background: url(../img/4.jpg);
+	background: url(../img/6.jpg);
 	/*background-repeat:no-repeat;*/
 	 background-size: 544px 3500px;
+}
+
+.bkgnd2 {
+	background: url(../img/6.jpg);
+	/*background-repeat:no-repeat;*/
+	 background-size: 544px 1500px;
+
 }
