@@ -21,7 +21,7 @@ body {
 
  .white {
  	background-color: white;
- 	opacity: .85;
+ 	opacity: .9;
 
  }
 
@@ -39,10 +39,13 @@ body {
 }
 
 .font_sec{
-	font: 13px/18px "Helvetica-Light";
+	font:"Helvetica-Light";
+	font-size: 15px;
+
 }
 
 .bkgnd {
 	background: url(../img/4.jpg);
 	/*background-repeat:no-repeat;*/
+	 background-size: 544px 2950px;
 }
