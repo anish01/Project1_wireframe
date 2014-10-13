@@ -19,11 +19,7 @@ body {
  display: compact;
  }
 
- .white {
- 	background-color: white;
- 	opacity: .9;
 
- }
 
  .container * {
  	opacity: 1;
@@ -47,5 +43,5 @@ body {
 .bkgnd {
 	background: url(../img/4.jpg);
 	/*background-repeat:no-repeat;*/
-	 background-size: 544px 2950px;
+	 background-size: 544px 3500px;
 }
