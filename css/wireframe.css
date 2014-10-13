@@ -42,4 +42,7 @@ body {
 	font: 13px/18px "Helvetica-Light";
 }
 
- 
+.bkgnd {
+	background: url(../img/4.jpg);
+	/*background-repeat:no-repeat;*/
+}
