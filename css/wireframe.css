@@ -17,12 +17,12 @@ body {
  background-size: 1440px 800px;
  /*background-repeat:no-repeat;*/
  display: compact;
- font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font: 13px/18px "Rockwell";
  }
 
  .white {
  	background-color: white;
- 	opacity: .8;
+ 	opacity: .85;
 
  }
 
@@ -32,7 +32,7 @@ body {
 
  .hours {
  	text-align: center;
- 	
+
  }
 
 
