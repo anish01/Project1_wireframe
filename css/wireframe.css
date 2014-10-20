@@ -12,7 +12,7 @@
 }
 body {
  margin: 0;
- background: url(../img/3.jpg) 0 5px;
+ /*background: url(../img/3.jpg) 0 5px;*/
 
  background-size: 1440px 800px;
  /*background-repeat:no-repeat;*/
@@ -41,13 +41,13 @@ body {
 }
 
 .bkgnd {
-	background: url(../img/6.jpg);
+	/*background: url(../img/6.jpg);*/
 	/*background-repeat:no-repeat;*/
 	 background-size: 544px 3500px;
 }
 
 .bkgnd2 {
-	background: url(../img/6.jpg);
+	/*background: url(../img/6.jpg);*/
 	/*background-repeat:no-repeat;*/
 	 background-size: 544px 1500px;
 
