@@ -13,11 +13,11 @@
 body {
  margin: 0;
  /*background: url(../img/background.jpg) 0 5px;*/
-/*background-color: #222222;*/
+ background-color: #222222;*/
  background-size: 1440px 800px;
  /*background-repeat:no-repeat;*/
  display: compact;
- background: linear-gradient(to top, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);
+ /*background: linear-gradient(to top, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);*/
 
  }
 
