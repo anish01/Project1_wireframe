@@ -12,8 +12,8 @@
 }
 body {
  margin: 0;
- background: url(../img/background.jpg) 0 5px;
-
+ /*background: url(../img/background.jpg) 0 5px;*/
+background-color: 222222;
  background-size: 1440px 800px;
  /*background-repeat:no-repeat;*/
  display: compact;
@@ -42,7 +42,7 @@ body {
 }
 
 .bkgnd {
-	background: url(../img/background.jpg);
+	/*background: url(../img/background.jpg);*/
 	background-repeat:no-repeat;
 	 background-size: 544px 3500px;
 }
