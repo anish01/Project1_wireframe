@@ -53,3 +53,9 @@ body {
 	 background-size: 544px 1500px;
 
 }
+
+.line-separator {
+height:1px;
+border-bottom:1px solid #003399;
+
+}
