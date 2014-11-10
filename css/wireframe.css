@@ -65,6 +65,5 @@ border-bottom:1px solid #003399;
 	padding-bottom: 5px;
 }
 
-.navbar-default {
-    color: #020902;
-}
+.navbar-default .navbar-brand {
+	color: #000000;
